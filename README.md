@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phyu Lwin.
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Java and Kotlin. 
+- 🌱 I’m currently learning UnrealEngine. 
 - 💞️ I’m looking to collaborate on Lua/Love2D projects.
 - 📫 How to reach me: phyulwin73929@gmail.com.
 
