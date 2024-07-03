@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phyu Lwin.
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning UnrealEngine. 
+- 🌱 I’m currently learning React Native. 
 - 💞️ I’m looking to collaborate on Godot projects.
 - 📫 How to reach me: phyulwin73929@gmail.com.
 
