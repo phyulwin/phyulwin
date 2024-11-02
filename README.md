@@ -6,7 +6,7 @@
 
 ### 🌱 About Me
 
-I'm a curious CS student with a passion for mobile apps developement! Currently, I'm on a journey to sharpen my skills and gain hands-on experience through an internship!
+I'm a curious CS student with a passion for mobile app development! Currently, I'm on a journey to sharpen my skills and gain hands-on experience through an internship!
 
 - 💡 **Favorite Languages:** C++
 - 📚 **Learning About:** Machine Learning, Game Design, and Cloud Computing
@@ -38,4 +38,4 @@ I'm a curious CS student with a passion for mobile apps developement! Currently,
 
 ---
 
-Thanks for stopping by! 😄 Looking forward to learning, collaborating, and creating something amazing together!
+Thanks for stopping by! 😄
