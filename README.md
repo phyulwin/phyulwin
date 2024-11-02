@@ -33,7 +33,7 @@ I'm a curious CS student with a passion for mobile app development! Currently, I
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phyulwin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phyu-lwin)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:phyulwin73929@gmail.com)
 
 ---
