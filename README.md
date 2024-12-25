@@ -4,16 +4,6 @@
 
 ---
 
-### 🌱 About Me
-
-I'm a curious CS student with a passion for mobile app development! Currently, I'm on a journey to sharpen my skills and gain hands-on experience through an internship!
-
-- 💡 **Favorite Languages:** C++
-- 📚 **Learning About:** Machine Learning, Game Design, and Cloud Computing
-- 🎯 **Goal:** Secure an internship where I can grow, learn, and contribute
-
----
-
 ### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=phyulwin&show_icons=true&theme=radical)
