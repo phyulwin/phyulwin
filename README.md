@@ -1,6 +1,9 @@
-# 👋 Hello, World! I'm Phyu Hnin Lwin.
+# 👋 Hello, World! I'm Kelly. 
 
-👨‍💻 **Computer Science Student | Software Developer**
+🎓 ** CS Junior @ Cal Poly Pomona (’26) **
+💻 ** Backend Dev | Full-Stack & ML Enthusiast **
+
+I'm passionate about building inclusive, meaningful tech—from mobile apps to machine learning projects. Right now, I’m working on a student social app and exploring applied AI. As a 2025–26 Break Through Tech Fellow, I’m growing as a developer and teammate. Looking for opportunities to learn, build, and make an impact!
 
 ---
 
