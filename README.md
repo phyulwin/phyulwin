@@ -9,7 +9,7 @@ I'm passionate about building inclusive, meaningful tech—from mobile apps to m
 
 ### 🛠 Tech Stack
 
-- Languages: Python, Java, C++, R, Go
+- Languages: Python, Java, C, C#, C++, R, Go, Rust
 - Data Science / ML: Pandas, NumPy, scikit-learn, TensorFlow
 - Web Development: HTML5, CSS3, JavaScript, Node.js  
 - Tools & Platforms: Jupyter, Google Colab, Git, GitHub  
