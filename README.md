@@ -1,11 +1,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=phyulwin&show_icons=true&theme=radical)
 ---
-
-# 👋 Hello, World! I'm Kelly Lwin.  
-
 🎓 **CS Senior @ Cal Poly Pomona (’26)**  
-💻 **Backend Dev | Full-Stack & ML Enthusiast**
----
+💻 **Backend Dev | Full-Stack & AI/ML Enthusiast**
 
 ### 🛠 Tech Stack
 
@@ -14,6 +10,7 @@
 - Web Development: HTML5, CSS3, JavaScript, Node.js  
 - Tools & Platforms: Jupyter, Google Colab, Git, GitHub  
 - Databases: SQL, MySQL, MongoDB, Firebase
+- Cloud: AWS
 ---
   
 ### 📬 Let's Connect!
