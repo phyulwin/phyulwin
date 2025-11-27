@@ -16,4 +16,4 @@
 ### 📬 Let's Connect!
 
 Email: phyulwin73929@gmail.com  
-LinkedIn: [linkedin.com/in/phyu-lwin](https://www.linkedin.com/in/phyu-lwin)
+LinkedIn: [linkedin.com/in/phyuhninlwin](https://www.linkedin.com/in/phyuhninlwin/)
