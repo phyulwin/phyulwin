@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phyulwine&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phyulwin&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 🎓 **CS Senior @ Cal Poly Pomona (’26)**  
 💻 **Backend Dev | Full-Stack & AI/ML Enthusiast**
