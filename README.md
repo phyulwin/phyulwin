@@ -3,19 +3,10 @@
 ---
 
 💻 **Software Engineer | Backend Developer | AI Builder**
+
 🎓 CS @ Cal Poly Pomona (Data Science Minor)
-⚡ I’m a software engineer with experience across **information technology, backend systems, APIs, AI/ML pipelines, cloud infrastructure, and full-stack product development**.
 
-My work spans:
-
-* **Scalable REST APIs & backend services**
-* **AI/ML pipelines for NLP + multimodal systems**
-* **Database optimization (SQL + NoSQL)**
-* **CI/CD, Docker, Kubernetes, and cloud deployment**
-* **Data engineering + workflow automation**
-* **Research-driven software systems**
-
----
+⚡ I’m a software engineer with experience across information technology, backend systems, APIs, AI/ML pipelines, cloud infrastructure, and full-stack product development.
 
 ## 🛠 Tech Stack
 
