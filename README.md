@@ -6,7 +6,7 @@
 
 🎓 CS @ Cal Poly Pomona (Data Science Minor)
 
-⚡ I’m a software engineer with experience across information technology, backend systems, APIs, AI/ML pipelines, cloud infrastructure, and full-stack product development.
+⚡ I’m a software engineer with experience across information technology, backend systems, APIs, AI/ML pipelines, cloud infrastructure, and full-stack product development. My hobbies include gaming and I'm learning game design in my free time. 
 
 ## 🛠 Tech Stack
 
@@ -31,8 +31,3 @@
 `Git` `GitLab` `Jenkins` `Postman` `ESLint` `Prettier`
 
 ---
-
-## 🤝 Let's Connect
-- **Email:** [phyu.h.lwin@gmail.com](mailto:phyu.h.lwin@gmail.com)
-- **LinkedIn:** [linkedin.com/in/phyuhninlwin](https://www.linkedin.com/in/phyuhninlwin/)
-- **Portfolio:** [phyulwin.github.io](https://phyulwin.github.io/)
