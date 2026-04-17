@@ -32,21 +32,7 @@
 
 ---
 
-## 📚 Currently Exploring
-
-* Distributed systems & microservices
-* Applied AI engineering
-* Cloud-native backend infrastructure
-* ML systems design
-* Search, ranking, and recommendation systems
-
-⚡ Engineering Mindset - I’m a **fast learner who can quickly adapt to any programming language, framework, or software tool as long as I have access to the documentation**.
-
----
-
 ## 🤝 Let's Connect
-
-**Email:** [phyu.h.lwin@gmail.com](mailto:phyu.h.lwin@gmail.com)
-**LinkedIn:** [linkedin.com/in/phyuhninlwin](https://www.linkedin.com/in/phyuhninlwin/)
-**Portfolio:** [phyulwin.github.io](https://phyulwin.github.io/)
-🚀 Open to **SWE, Backend, AI/ML, and Research Engineering opportunities**
+- **Email:** [phyu.h.lwin@gmail.com](mailto:phyu.h.lwin@gmail.com)
+- **LinkedIn:** [linkedin.com/in/phyuhninlwin](https://www.linkedin.com/in/phyuhninlwin/)
+- **Portfolio:** [phyulwin.github.io](https://phyulwin.github.io/)
